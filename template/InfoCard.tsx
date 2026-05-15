@@ -18,7 +18,10 @@ export default function Card({Nama, Kelas, Sekolah, GrupIdol, Bias, color = "cya
         Nama Sekolah : {Sekolah}
         </p>
             <p className="text-base leading-7 text-blue-800 sm:text-lg">
-            Grup idol : {GrupIdol}, Bias : {Bias}
+            Grup idol : {GrupIdol}
+        </p>
+        <p className="text-base leading-7 text-blue-800 sm:text-lg">
+        Bias : {Bias}
         </p>
     </div>
  )

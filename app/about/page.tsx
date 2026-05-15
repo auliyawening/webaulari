@@ -12,7 +12,7 @@ export default function AboutPage() {
 				}}
 			>
 				<main className="mx-auto flex w-full max-w-5xl flex-1 flex-col justify-center px-6 py-16">
-					<section className="max-w-2xl space-y-4 backdrop-blur-sm bg-white/40 p-6 rounded-2xl">
+					<section className="max-w-2xl space-y-4 backdrop-blur-sm bg-amber-50/40 p-6 rounded-2xl">
 						<Card
 							Nama={"Auliya Wening"}
 							Kelas={"XI Rekayasa Perangkat Lunak (RPL)"}

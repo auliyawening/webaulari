@@ -12,7 +12,7 @@ export default function HomePage() {
 						Tugas projek dari kak adit.
 					</h1>
 					<p className="text-base leading-7 text-zinc-600 sm:text-lg">
-						projek aul dan ary
+						by aul dan ary
 					</p>
 				</section>
 			</main>
